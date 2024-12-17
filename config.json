@@ -1,0 +1,56 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "encryptAppstate": true,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "autoClean": true,
+    "adminOnly": false,
+    "keyAdminOnly": "",
+    "commandDisabled": [
+        ""
+    ],
+    "eventDisabled": [
+        ""
+    ],
+    "UPTIME": 109115588.98522376,
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "NAMEMAIN": "Huy Hoàngg",
+    "BOTNAME": "ahihi",
+    "PREFIX": "?",
+    "ADMINBOT": [
+        "1417149937",
+        "100079577303103",
+        "100030684320456"
+    ],
+    "NDH": [
+        "1417149937",
+        "",
+        "100069389838852"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    },
+    "version": "1.2.14",
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    }
+}
